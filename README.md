@@ -14,5 +14,6 @@ Make a pr to submit your ideas of videos
 - custom complier/features
 - rust vs javascript performances
 - Memory safety - how rust prevents common c bugs
-- rust and redis project 
+- rust and redis project
+- rust and web3 (solana development)
 

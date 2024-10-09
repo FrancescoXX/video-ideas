@@ -16,4 +16,4 @@ Make a pr to submit your ideas of videos
 - Memory safety - how rust prevents common c bugs
 - rust and redis project
 - rust and web3 (solana development)
-
+- rust by example (long video): https://doc.rust-lang.org/rust-by-example/index.html

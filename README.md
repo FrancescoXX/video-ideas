@@ -17,3 +17,4 @@ Make a pr to submit your ideas of videos
 - rust and redis project
 - rust and web3 (solana development)
 - rust by example (long video): https://doc.rust-lang.org/rust-by-example/index.html
+- rust and swagger
